@@ -16,8 +16,8 @@ mochad stands for Multiple Online Controllers for Home Automation Daemon.
 
 == Build it
 
-mochad compiles and runs on Ubuntu 10.04 and 10.10. The libusb-1.0 development
-files are required. To install,
+mochad compiles and runs on Ubuntu 10.04, 10.10, 14.10 and probably others. 
+The libusb-1.0 development files are required. To install,
 
     sudo apt-get install libusb-1.0-0-dev
 
